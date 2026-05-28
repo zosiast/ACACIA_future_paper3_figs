@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "name": "Staniaszek, Zosia",
+            "orcid": "0000-0002-1789-4368",
+            "affiliation": "CICERO",
+            "type": "ProjectMember"
+        }
+    ],
+    "title": "Scripts for 'Impact of future aircraft NOx emissions on atmospheric composition and climate: dependence on background conditions'",
+    "version": "1.0",
+    "access_right": "open",
+    "upload_type": "software",
+    "language": "eng",
+    "grants": [
+        {"id": "10.3030/875036"}
+    ],
+}
