@@ -1,4 +1,4 @@
-## Scripts for making figures in ACACIA future ozone RF paper
+## Scripts for making figures in "Impact of future aircraft NOx emissions on atmospheric composition and climate: dependence on background conditions", Staniaszek et al. 2026
 
 Fig 1: NOx_emissions_plots.ipynb, NOx emissions present day and future (SSP1 and SSP3 in 2050)
 
